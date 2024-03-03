@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/February/16 - Disjoint Sets.md",
+                "file": "Lectures/February/23 - ADTs, Sets, Maps, BSTs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/February/16 - Disjoint Sets.md",
+                "file": "Lectures/February/23 - ADTs, Sets, Maps, BSTs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/February/16 - Disjoint Sets.md",
+                "file": "Lectures/February/23 - ADTs, Sets, Maps, BSTs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/February/16 - Disjoint Sets.md"
+                "file": "Lectures/February/23 - ADTs, Sets, Maps, BSTs.md"
               }
             }
           }
@@ -148,19 +148,22 @@
   },
   "active": "8904219102c66364",
   "lastOpenFiles": [
-    "Lectures/zimages/pathcompression.png",
-    "Lectures/zimages/pathcompression.png",
-    "Lectures/zimages/ageniusmathuniverse.png",
-    "Lectures/zimages/quickfindds.png",
-    "Lectures/zimages/idea2.png",
-    "Lectures/zimages/listsets.png",
-    "Lectures/zimages/a better approach.png",
+    "Lectures/February/21 - Asymptotics II.md",
+    "Lectures/zimages/bstrepresentationset.png",
+    "Lectures/February/23 - ADTs, Sets, Maps, BSTs.md",
+    "Lectures/zimages/after.png",
+    "Lectures/zimages/before.png",
+    "Lectures/zimages/deletingroot.png",
+    "Lectures/zimages/insert.png",
+    "Lectures/zimages/instanceof.png",
+    "Lectures/zimages/insert.png",
+    "Lectures/zimages/bstrules.png",
+    "Lectures/zimages/binarysearchtree.png",
+    "Lectures/January/24 - Lists ll (SLLists).md",
+    "Lectures/January/26- Lists III (DLLists and Arrays).md",
     "Lectures/February/12 - Asymptotics I.md",
+    "Lectures/zimages/dup.png",
     "Lectures/February/16 - Disjoint Sets.md",
-    "Lectures/zimages/ocomparisons.png",
-    "Lectures/zimages/bigovsbigtheta.png",
-    "Lectures/zimages/big-theta.png",
-    "Lectures/zimages/geometric reasoning.png",
     "Lectures/February/09 - Inheritance IV (Iterators, Object Methods).md",
     "Labs/Lab04 - Git.md",
     "HWs/0 - Java Syntax.md",
@@ -170,8 +173,6 @@
     "Lectures/February/05 - Inheritance II (Extends, Casting, Higher Order Functions).md",
     "Lectures/February/07 - Inheritance III (Subtype, Polymorphism, Comparators, Comparable).md",
     "Lectures/February/14 - Midterm Review.md",
-    "Lectures/January/26- Lists III (DLLists and Arrays).md",
-    "Lectures/January/24 - Lists ll (SLLists).md",
     "Lectures/January/22 - Lists l (References, Recursion, and Lists).md",
     "Lectures/January/19 - Creating and Manipulating Classes.md",
     "Lectures/January/29 - Testing.md",

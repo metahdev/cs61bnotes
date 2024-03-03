@@ -115,7 +115,7 @@ public String toString() {
 
 ### instanceOf 
 
-![[insatnceof.png]]
+![[instanceof.png]]
 
 ### ArraySet implementation of equals
 ```java 
