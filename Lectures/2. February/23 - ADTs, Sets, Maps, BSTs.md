@@ -97,6 +97,8 @@ Two ways to implement a Set (or Map): ArraySet and using a BST
 - When inserting, always set left/right pointers, even if nothing is actually changing 
 - Avoid "arms length base cases". Don't check if left or right is null!
 
+*Theta = Θ\**
+
 
 
 

@@ -1,0 +1,1 @@
+Garbage collector in Java allows us to delete the whole tree by deleting the root. 

@@ -120,3 +120,4 @@ Different solutions to the same problem may have different runtimes
 
 Once you prove runtime for one problem, you may be able to use it in other problems to speed things up!
 
+*Theta = Θ\**

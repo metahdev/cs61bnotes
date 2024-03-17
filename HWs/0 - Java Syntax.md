@@ -1,10 +1,10 @@
-|Python|Java|What?|
-|---|---|---|
-|`bool`|`boolean`|Python uses `True` and `False`; Java uses `true` and `false`.|
-|`int`|`int`|While Python `int`s are unbounded, Java `int`s have a (large) max and min value.|
-|`float`|`double`|Decimal values. Java `doubles` are again bounded.|
-|`str`|`String`|Java `String`s use double quotes (`"`), and can be any text.|
-|no equivalent|`char`|Java `char` represents a _single_ character, and uses single quotes (`'`).|
+| Python        | Java      | What?                                                                            |
+| ------------- | --------- | -------------------------------------------------------------------------------- |
+| `bool`        | `boolean` | Python uses `True` and `False`; Java uses `true` and `false`.                    |
+| `int`         | `int`     | While Python `int`s are unbounded, Java `int`s have a (large) max and min value. |
+| `float`       | `double`  | Decimal values. Java `doubles` are again bounded.                                |
+| `str`         | `String`  | Java `String`s use double quotes (`"`), and can be any text.                     |
+| no equivalent | `char`    | Java `char` represents a _single_ character, and uses single quotes (`'`).       |
 
 
 - NOTE: In Java, `==` is used for identity, and `.equals()` is used for equality. For primitive types, this means the same thing, but for reference types, it may be different. For this assignment, you do not need to know the difference; we’ll learn more about this later.

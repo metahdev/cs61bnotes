@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5e99e60484cb7910",
+        "id": "6339795b5b4efec0",
         "type": "tabs",
         "children": [
           {
-            "id": "8904219102c66364",
+            "id": "e86d6c8184ca3e42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/February/23 - ADTs, Sets, Maps, BSTs.md",
+                "file": "Lectures/3. March/08 - Tree and Graph Traversals.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 506.5
   },
   "right": {
     "id": "fc360a876418fef6",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/February/23 - ADTs, Sets, Maps, BSTs.md",
+                "file": "Lectures/3. March/08 - Tree and Graph Traversals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/February/23 - ADTs, Sets, Maps, BSTs.md",
+                "file": "Lectures/3. March/08 - Tree and Graph Traversals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/February/23 - ADTs, Sets, Maps, BSTs.md"
+                "file": "Lectures/3. March/08 - Tree and Graph Traversals.md"
               }
             }
           }
@@ -146,40 +146,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8904219102c66364",
+  "active": "e86d6c8184ca3e42",
   "lastOpenFiles": [
-    "Lectures/February/21 - Asymptotics II.md",
-    "Lectures/zimages/bstrepresentationset.png",
-    "Lectures/February/23 - ADTs, Sets, Maps, BSTs.md",
-    "Lectures/zimages/after.png",
-    "Lectures/zimages/before.png",
-    "Lectures/zimages/deletingroot.png",
-    "Lectures/zimages/insert.png",
-    "Lectures/zimages/instanceof.png",
-    "Lectures/zimages/insert.png",
-    "Lectures/zimages/bstrules.png",
-    "Lectures/zimages/binarysearchtree.png",
-    "Lectures/January/24 - Lists ll (SLLists).md",
-    "Lectures/January/26- Lists III (DLLists and Arrays).md",
-    "Lectures/February/12 - Asymptotics I.md",
-    "Lectures/zimages/dup.png",
-    "Lectures/February/16 - Disjoint Sets.md",
-    "Lectures/February/09 - Inheritance IV (Iterators, Object Methods).md",
+    "Lectures/3. March/06 - Heaps and Priority Queues.md",
+    "Lectures/3. March/04 - Hashing II.md",
+    "Lectures/3. March/01 - Hashing.md",
+    "Lectures/2. February/28 - Red Black Trees.md",
+    "Lectures/2. February/23 - ADTs, Sets, Maps, BSTs.md",
+    "Lectures/2. February/16 - Disjoint Sets.md",
+    "Lectures/2. February/14 - Midterm Review.md",
+    "Lectures/2. February/09 - Inheritance IV (Iterators, Object Methods).md",
+    "Lectures/1. January/24 - Lists ll (SLLists).md",
+    "Lectures/2. February/02 - Inheritance I (Interface and Implementation Inheritance).md",
+    "Lectures/2. February/12 - Asymptotics I.md",
+    "Lectures/2. February/21 - Asymptotics II.md",
+    "Lectures/3. March/08 - Tree and Graph Traversals.md",
+    "Lectures/zimages/theholydatastructuresgrail.png",
+    "Lectures/zimages/onedimensionaltree.png",
+    "Lectures/zimages/approachDisjointSets.png",
+    "Lectures/zimages/swimming.png",
+    "Lectures/zimages/Introducing the Heap.jpeg",
+    "Lectures/zimages/immutable.jpeg",
+    "Which of the Classes Below Are Immutable 1.jpeg",
+    "Lectures/zimages/How Would We Make SecretRocksBox Immutable.jpeg",
+    "How Would We Make SecretRocksBox Immutable.jpeg.sb-f76828a9-d83FuK",
+    "Lectures/zimages/Which of the Classes Below Are Immutable 1.jpeg",
+    "Lectures/zimages/Which of the Classes Below Are Immutable.jpeg",
+    "Labs/Lab 08.md",
+    "Lectures/2. February/26 - B-Trees (2-3, 2-3-4 Trees).md",
+    "Lectures/3. March",
+    "Lectures/February/Untitled.md",
+    "Labs/Lab06 - BSTMap.md",
     "Labs/Lab04 - Git.md",
+    "README.md",
     "HWs/0 - Java Syntax.md",
+    "Lectures/2. February/07 - Inheritance III (Subtype, Polymorphism, Comparators, Comparable).md",
+    "Lectures/2. February/05 - Inheritance II (Extends, Casting, Higher Order Functions).md",
+    "Lectures/1. January/26- Lists III (DLLists and Arrays).md",
     "Labs",
-    "Lectures/January/31 - Lists IV (Arrays and Lists).md",
-    "Lectures/February/02 - Inheritance I (Interface and Implementation Inheritance).md",
-    "Lectures/February/05 - Inheritance II (Extends, Casting, Higher Order Functions).md",
-    "Lectures/February/07 - Inheritance III (Subtype, Polymorphism, Comparators, Comparable).md",
-    "Lectures/February/14 - Midterm Review.md",
-    "Lectures/January/22 - Lists l (References, Recursion, and Lists).md",
-    "Lectures/January/19 - Creating and Manipulating Classes.md",
-    "Lectures/January/29 - Testing.md",
-    "Lectures/February",
+    "Lectures/1. January/31 - Lists IV (Arrays and Lists).md",
+    "Lectures/1. January/22 - Lists l (References, Recursion, and Lists).md",
+    "Lectures/2. February",
     "Lectures/zimages",
     "HWs",
-    "Lectures/January",
+    "Lectures/1. January",
     "Lectures"
   ]
 }
